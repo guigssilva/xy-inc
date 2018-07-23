@@ -75,5 +75,4 @@ public class GenericException extends Exception {
 	super(mensagem.getDescricao(), cause);
 	this.mensagem = mensagem;
     }
-
 }
